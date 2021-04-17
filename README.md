@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Kyuubang&count_private=true&show_icons=true&theme=gotham">
+</a>
+<br />
 <!--
 **aldisakti2/aldisakti2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
