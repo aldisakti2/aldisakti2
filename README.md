@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<script src="https://tryhackme.com/badge/199737"></script>
+
 <!--
 **aldisakti2/aldisakti2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
